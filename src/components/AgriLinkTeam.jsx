@@ -65,7 +65,7 @@ const AgriLinkTeam = () => {
       role: "Strategy & Communications Lead",
       responsibilities:
         "Narrative Integration, Storyboarding, Critical Review.",
-      image: "/images/gauri.jpg",
+      image: "images/gauri.jpg",
     },
   ];
 
